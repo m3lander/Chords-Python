@@ -1,0 +1,21 @@
+# Core dependencies
+numpy>=1.24.0
+pylsl==1.16.2
+pyserial==3.5
+
+# GUI dependencies
+pyqtgraph==0.13.7
+PyQt5==5.15.11
+PySide6>=6.5.0
+
+# Analysis dependencies
+scipy==1.14.1
+neurokit2==0.2.10
+
+# Game dependencies
+pygame==2.6.1
+keyboard==0.13.5
+
+# Data visualization
+plotly
+pandas
